@@ -1,5 +1,7 @@
 # IonicAngularD3Examples
-Implementation of D3 library with Ionic Angular Framework with Typescript
+Implementation of D3 library with Ionic Angular Framework with Typescript.
+
+Following [Visualizing Data with Angular and D3](https://medium.com/netscape/visualizing-data-with-angular-and-d3-209dde784aeb) Tutorial.
 
 ## Table of contents
 * [General info](#general-info)
@@ -15,7 +17,7 @@ Implementation of D3 library with Ionic Angular Framework with Typescript
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://www.r-graph-gallery.com/img/graph/143-spider-chart-with-saveral-individuals2.png)
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -23,7 +25,7 @@ Add more general information about project. What the purpose of the project is? 
 * Tech 3 - version 3.0
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Describe how to install / setup your local environment / add link to demo version.
 
 ## Code Examples
 Show examples of usage:
@@ -45,5 +47,7 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 ## Inspiration
 Add here credits. Project inspired by..., based on...
 
+[https://www.r-graph-gallery.com/](https://www.r-graph-gallery.com/)
+
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@flavio.marques.dev](https://github.com/FlavioMarquesInf/) - feel free to contact me!
